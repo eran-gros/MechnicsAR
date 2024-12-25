@@ -1,0 +1,41 @@
+# =============== #
+# Unity generated #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+MemoryCaptures/
+
+# =============== #
+# OS generated    #
+# =============== #
+.DS_Store
+*.DS_Store
+
+# =============== #
+# Visual Studio   #
+# =============== #
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.opendb
+*.VC.db
+.vs/
+.idea/
+.vscode/
+
+# =============== #
+# Large Plugins   #
+# =============== #
+Assets/OpenCVForUnity/
+Assets/OpenCVForUnity/Extra.unitypackage
